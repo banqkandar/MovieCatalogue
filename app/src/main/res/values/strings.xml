@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="judul_list">Film terpopuler tahun ini</string>
+    <string name="nama_film">aladin</string>
+    <string name="judul">Aladdin</string>
+    <string name="durasi">107 Menit</string>
+    <string name="rating">Rating</string>
+    <string name="rates">8</string>
+    <string name="genre">Biography, Drama, History</string>
+
+    <string-array name="data_judul">
+        <item>Aladdin</item>
+        <item>Avengers: Endgame</item>
+        <item>FFP: Hobbs and Shaw</item>
+        <item>Friend Zone</item>
+        <item>Good Boys</item>
+        <item>Joker</item>
+        <item>The King</item>
+        <item>Midsommar</item>
+        <item>Terminator: Dark Fate</item>
+        <item>The Lion King</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>A live-action retelling of the 1992 Disney film of the same name.</item>
+        <item>The turning point of the beloved heroes epic journey, as they come to truly understand how fragile their reality is and the sacrifices that must be made to uphold it.</item>
+        <item>A spinoff of The Fate of the Furious, focusing on Johnsons US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Stathams Deckard Shaw.</item>
+        <item>In this world, there are many people who seem to be wandering along a relationship border-lining friends and lovers. This borderline is also commonly known as the FRIEND ZONE. It is a special area for those who are stuck in the middle where they cannot really stay friends with their close friends, nor move forward to be their friends lovers.</item>
+        <item>A group of young boys on the cusp of becoming teenagers embark on an epic quest in the San Fernando Valley to fix their broken toy before their parents get home.</item>
+        <item>During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.</item>
+        <item>In 15th-century England, Prince Hal transforms from wayward wastrel to powerful king after he reluctantly inherits the throne and its many conflicts.</item>
+        <item>A couple travels to Sweden to visit a rural hometowns fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.</item>
+        <item>The sixth film in the Terminator series will pick up where the second film left off, ignoring all the subsequent sequels.</item>
+        <item>Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cubs arrival. Scar, Mufasas brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simbas exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.", "118 Menit", "Animation, Adventure, Drama</item>
+    </string-array>
+
+    <array name="data_gambar">
+        <item>@drawable/list_aladdin</item>
+        <item>@drawable/list_avenger</item>
+        <item>@drawable/list_fastandfourious</item>
+        <item>@drawable/list_friendzone</item>
+        <item>@drawable/list_goodboys</item>
+        <item>@drawable/list_joker</item>
+        <item>@drawable/list_thekingposter</item>
+        <item>@drawable/list_mid</item>
+        <item>@drawable/list_terminator</item>
+        <item>@drawable/list_lion</item>
+    </array>
+
+    <string-array name="data_duration">
+        <item>127 Menit</item>
+        <item>181 Menit</item>
+        <item>136 Menit</item>
+        <item>118 Menit</item>
+        <item>89 Menit</item>
+        <item>113 Menit</item>
+        <item>140 Menit</item>
+        <item>170 Menit</item>
+        <item>118 Menit</item>
+        <item>118 Menit</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Adventure, Comedy, Family</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure</item>
+        <item>Comedy, Romance</item>
+        <item>Adventure, Comedy</item>
+        <item>Crime, Drama, Thriller</item>
+        <item>Biography, Drama, History</item>
+        <item>Drama, Horror, Mystery</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Animation, Adventure, Drama</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>7,4</item>
+        <item>8,6</item>
+        <item>7,7</item>
+        <item>7,5</item>
+        <item>6,7</item>
+        <item>9,1</item>
+        <item>7</item>
+        <item>7,5</item>
+        <item>8</item>
+        <item>6,2</item>
+    </string-array>
+
+</resources>
